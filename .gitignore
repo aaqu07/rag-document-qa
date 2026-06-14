@@ -1,0 +1,14 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+
+.streamlit/secrets.toml
+
+chroma/
+chroma_db/
+uploads/
+SUBMISSION_CHECKLIST.md
